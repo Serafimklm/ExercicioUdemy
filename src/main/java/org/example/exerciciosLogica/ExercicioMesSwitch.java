@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exerciciosLogica;
 
 import java.util.Scanner;
 
